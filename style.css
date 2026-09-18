@@ -1,0 +1,28 @@
+body
+{
+    background-color: #eef4ff;
+}
+
+h1
+{
+    background-color: #1d4ed8;
+    font-size: 36px;
+    font-family:Arial, sans-serif ;
+    text-align: center;
+}
+
+p
+{
+    color: blue;
+
+}
+
+.Class-par
+{
+    color: green;
+}
+
+#ID-par
+{
+    color: red;
+}
